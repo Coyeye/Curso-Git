@@ -2,4 +2,5 @@ body{
     background-color:azure; //*Dar color al fondo del html*/
     font-weight:bold; /*Cambiar las letras a negritas*/
     color:black;
+    font-size: 25 px;
 }
